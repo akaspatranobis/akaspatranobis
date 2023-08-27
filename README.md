@@ -12,14 +12,12 @@ An engineer passionate about cloud infrastructure, serverless technologies, and 
 
 ### What I do
 
-Terraform, Serverless, Kubernetes and all that jazz
-
-<p align="left"> <img src="https://profile-counter.glitch.me/akaspatranobis/count.svg" alt="ak123" /> </p>
+<!-- <p align="left"> <img src="https://profile-counter.glitch.me/akaspatranobis/count.svg" alt="ak123" /> </p> -->
 
 - 🔭 I’m currently **learning GoLang, Python **
-- 📝 I regularly write articles on **Various DevOps Concepts**
-
-- 💬 You can ask me about **AWS, Docker, Jenkins, Ansible, Terraform, Kubernetes**
+- 📝 I regularly write articles on **Various DevOps Concepts and Cloud Architecture**
+- 💻 I train and mentor tech entusiats on **DevOps and Cloud Computing**
+- 💬 You can ask me about **AWS, Docker, Jenkins, Ansible, Terraform, Kubernetes, GCP**
 
 
 <h3 align="left">Connect with me:</h3>
