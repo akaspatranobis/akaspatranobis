@@ -22,7 +22,7 @@ An engineer passionate about cloud infrastructure, serverless technologies, and 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href= "https://www.linkedin.com/in/akaspatranobis/">
+<a href= "https://www.linkedin.com/in/akas-patranobis/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
 <a href= "mailto:akaspatranobis@gmail.com">
