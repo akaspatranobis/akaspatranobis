@@ -1,6 +1,6 @@
 ![MasterHead](https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835118.jpg)
 <h1 align="center">Hi there, I'm Akas</h1>
-<h3 align="center">AWS Community Builder | DevOps Engineer | DevOps and Cloud Trainer | Docker | Linux | Jenkins | AWS | Git | Terraform | Terragrunt | Ansible | Kubernetes | Pulumi | Technical Blogger | Passionate about writing Technical Blogs on various DevOps concepts.</h3>
+<h3 align="center">AWS Community Builder | DevSecOps Engineer | DevOps and Cloud Trainer | Docker | Linux | Jenkins | AWS | Azure| GCP | Git | Terraform | Terragrunt | Ansible | Kubernetes | Pulumi | Technical Blogger | Passionate about writing Technical Blogs on various DevOps concepts.</h3>
 
 <img width="45%" align="right" alt="Github" src="./imgs/aws.svg" />
 
@@ -17,7 +17,7 @@ An engineer passionate about cloud infrastructure, serverless technologies, and 
 - 🔭 I’m currently **learning GoLang, Python **
 - 📝 I regularly write articles on **Various DevOps Concepts and Cloud Architecture**
 - 💻 I train and mentor tech entusiats on **DevOps and Cloud Computing**
-- 💬 You can ask me about **AWS, Docker, Jenkins, Ansible, Terraform, Kubernetes, GCP**
+- 💬 You can ask me about **AWS, Docker, Jenkins, Ansible, Terraform, Kubernetes, GCP, Azure**
 
 
 <h3 align="left">Connect with me:</h3>
